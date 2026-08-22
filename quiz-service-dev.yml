@@ -4,4 +4,4 @@ spring:
 
 
 config:
-   value: "Quiz-service , We are in Development. added rabbitmq and new changes made!!"
+   value: "Quiz-service , We are in Development."
