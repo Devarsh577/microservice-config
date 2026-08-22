@@ -1,0 +1,7 @@
+spring:
+    mongodb:
+      uri: mongodb://127.0.0.1:27017/quizdb
+
+
+config:
+   value: "Quiz-service , We are in Development. UPDATED!!"
