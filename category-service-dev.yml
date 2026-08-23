@@ -9,4 +9,4 @@ spring:
       ddl-auto: update
     show-sql: true
 config:
-   value: "Category-service , We are in Development. rebbit mq is working fine. UPDATED!!"
+   value: "Category-service , We are in Development.UPDATED!!"
