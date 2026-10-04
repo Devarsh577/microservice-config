@@ -1,0 +1,7 @@
+spring:
+  mongodb:
+    uri: mongodb://127.0.0.1:27017/questiongeneratordb
+
+
+config:
+  value: "Question Generator , We are in Development."
