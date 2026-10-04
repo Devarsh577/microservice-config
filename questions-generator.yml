@@ -3,7 +3,7 @@ spring:
     name: question-generator
 
 server:
-  port: 9095
+  port: 9096
 
 eureka:
   client:
